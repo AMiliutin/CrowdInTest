@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Протестувати Crowdin</string>
+    <string name="action_settings">Налаштування</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Перший фрагмент</string>
+    <string name="second_fragment_label">Друге фрагмент</string>
+    <string name="next">Уперед</string>
+    <string name="previous">Попереднє 2</string>
+    <string name="hello_first_fragment">Перший фрагмент вітання</string>
+    <string name="hello_second_fragment">Привіт, другий фрагмент. Арг: %1$s</string>
+    <string name="new_string">Новий рядок</string>
+</resources>
