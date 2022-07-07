@@ -1,0 +1,12 @@
+"project_id": "525278"
+"api_token": "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"
+"base_path": "/"
+"preserve_hierarchy": true
+"base_url": "https://api.crowdin.com"         # https://{organization-name}.crowdin.com for Crowdin Enterprise
+
+"files": [
+  {
+    "source": "/app/src/main/res/values/strings.xml",                                       #source files filter
+    "translation": "/locale/%two_letters_code%/folder1/%original_file_name%"        #where translations are stored
+  }
+]
