@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">CrowdInTest</string>
+    <string name="app_name">CrowdInTest 2</string>
     <string name="action_settings">asdgs</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
-    <string name="hello_first_fragment" comment="hello_first_fragment 2">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="first_fragment_label">First Fragment 2</string>
+    <string name="second_fragment_label">Second Fragment 2</string>
+    <string name="next">Next 2</string>
+    <string name="previous">Previous 2</string>
+    <string name="hello_first_fragment" comment="hello_first_fragment 2">Hello first fragment 2</string>
+    <string name="hello_second_fragment">Hello first fragment 3</string>
 </resources>
