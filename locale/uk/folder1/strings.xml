@@ -7,6 +7,6 @@
     <string name="second_fragment_label">Друге фрагмент</string>
     <string name="next">Уперед</string>
     <string name="previous">Попереднє 2</string>
-    <string name="hello_first_fragment">Перший фрагмент вітання</string>
+    <string name="hello_first_fragment" comment="hello_first_fragment 2">Перший фрагмент вітання</string>
     <string name="hello_second_fragment">Привіт, другий фрагмент. Арг: %1$s</string>
 </resources>
