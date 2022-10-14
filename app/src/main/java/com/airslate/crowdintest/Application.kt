@@ -12,14 +12,14 @@ class Application: Application() {
 
         Crowdin.init(applicationContext,
             CrowdinConfig.Builder()
-                .withDistributionHash("d2f5942bd558370aecbee394v56")
+                .withDistributionHash("36cf15ae8aeac833ab5fc997zsy")
 //                .withNetworkType(network_type)                // optional
 //                .withUpdateInterval(interval_in_seconds)      // optional
                 .build())
 
         Crowdin.init(applicationContext,
             CrowdinConfig.Builder()
-                .withDistributionHash("eec91dbe84e27f8ba1329a94v56")
+                .withDistributionHash("36cf15ae8aeac833ab5fc997zsy")
                 .withRealTimeUpdates()
                 .withSourceLanguage("en")
                 .withAuthConfig(AuthConfig("Ja0CD9QQ4VNISIJOG0id", "tQa1rmGWoQmFZFkBLnoroe6ivnG7x7trGCFB1brl", null, false))
