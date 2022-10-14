@@ -22,7 +22,7 @@ class Application: Application() {
                 .withDistributionHash("eec91dbe84e27f8ba1329a94v56")
                 .withRealTimeUpdates()
                 .withSourceLanguage("en")
-                .withAuthConfig(AuthConfig("Qsfj9kH01xrxqWXCr3th", "xjBQe4yXwvNJBmcoCja8iRKJjn6N5eUxVho9vMtu", null, false))
+                .withAuthConfig(AuthConfig("Ja0CD9QQ4VNISIJOG0id", "tQa1rmGWoQmFZFkBLnoroe6ivnG7x7trGCFB1brl", null, false))
 //                .withNetworkType(network_type)                                           // optional
 //                .withUpdateInterval(interval_in_seconds)                                 // optional
                 .build())
