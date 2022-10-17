@@ -20,6 +20,7 @@ class Application: Application() {
         Crowdin.init(applicationContext,
             CrowdinConfig.Builder()
                 .withDistributionHash("36cf15ae8aeac833ab5fc997zsy")
+                .withScreenshotEnabled()
                 .withRealTimeUpdates()
                 .withSourceLanguage("en")
                 .withAuthConfig(AuthConfig("Ja0CD9QQ4VNISIJOG0id", "tQa1rmGWoQmFZFkBLnoroe6ivnG7x7trGCFB1brl", null, false))
