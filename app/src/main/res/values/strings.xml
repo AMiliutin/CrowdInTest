@@ -11,4 +11,6 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
     <string name="hello_second_fragment_2">Hello second fragment. Arg: %1$s</string>
+
+    <string name="hello_second_fragment_3">Hello second fragment 3. Arg: %1$s</string>
 </resources>

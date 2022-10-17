@@ -36,7 +36,9 @@ class MainActivity : AppCompatActivity() {
                 .setAction("Action", null).show()
         }
 
-        Crowdin.authorize(this)
+        Crowdin.authorize(this, { s ->
+            s
+        })
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
