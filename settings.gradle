@@ -15,3 +15,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "CrowdInTest"
 include ':app'
+include ':app:module-2'
+include ':module-3'
+include ':module-2'

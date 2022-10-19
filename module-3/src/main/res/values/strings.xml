@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">module-3</string>
+    <string name="some_string_from_module3">Example string module-3</string>
+</resources>
