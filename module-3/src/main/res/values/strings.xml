@@ -1,4 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">module-3</string>
+    <string name="app_name">module-3-test</string>
     <string name="some_string_from_module3">Example string module-3</string>
 </resources>
