@@ -23,7 +23,7 @@ class Application: Application() {
                 .withScreenshotEnabled()
                 .withRealTimeUpdates()
                 .withSourceLanguage("en")
-                .withAuthConfig(AuthConfig("LO28EZN82v3znmTboMsB", "Gwih9gDhJ8HEXd4w2bxStjLiOTkIpQ7UBNFN8pvn", null, false))
+                .withAuthConfig(AuthConfig("Ja0CD9QQ4VNISIJOG0id", "tQa1rmGWoQmFZFkBLnoroe6ivnG7x7trGCFB1brl", null, false))
 //                .withNetworkType(network_type)                                           // optional
 //                .withUpdateInterval(interval_in_seconds)                                 // optional
                 .build())
